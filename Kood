@@ -1,20 +1,38 @@
+'''
+Programmeerimine I
+2024/2025 sügissemester
+#
+Projekt
+Teema: Ostukorvi planeerija
+#
+#
+Autorid: Nora Liis Palm, Elisabet Koit
+#
+mõningane eeskuju:
+#
+Lisakommentaar (nt käivitusjuhend):
+#
+'''
 info = {}
 
 with open("toiduained.txt", encoding="utf-8") as fail:
-    while True:
-        for rida in fail:
-            andmed = rida.strip().split(", ")
-            if andmed == "":
-                break
-            grupp = andmed[0]
-            toit = andmed[1]
-            dieedid = andmed[2:]
+    for rida in fail:
+        if rida.strip== "":
+            continue
+        andmed = rida.strip().split(", ")
+
+        grupp = andmed[0]
+        toit = andmed[1]
+        dieedid = andmed[2:]
         
-            if grupp not in info:
-                info[grupp] = []
+        if grupp not in info:
+            info[grupp] = {}
+        for dieet in dieedid:
+            if dieet not in info[grupp]:
+                info[grupp][dieet] = []
+            if toit not in info[grupp][dieet]:
+                info[grupp][dieet].append(toit)
+
+        
             
-            info[grupp].append({"toit": toit})
-            
-    print(info)
-'''
-, "dieedid": dieedid
+print(info)
