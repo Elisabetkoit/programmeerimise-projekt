@@ -1,0 +1,20 @@
+info = {}
+
+with open("toiduained.txt", encoding="utf-8") as fail:
+    while True:
+        for rida in fail:
+            andmed = rida.strip().split(", ")
+            if andmed == "":
+                break
+            grupp = andmed[0]
+            toit = andmed[1]
+            dieedid = andmed[2:]
+        
+            if grupp not in info:
+                info[grupp] = []
+            
+            info[grupp].append({"toit": toit})
+            
+    print(info)
+'''
+, "dieedid": dieedid
