@@ -1,0 +1,15 @@
+
+puuvili, õun, vegan, vegetarian
+puuvili, banaan, vegan, vegetarian
+köögivili, brokoli, vegan, vegetarian
+köögivili, porgand, vegan, vegetarian
+Tervislikud rasvad, avokaado, vegan, vegetarian
+Tervislikud rasvad, pähklid, vegan, vegetarian
+Valgurikkad toidud, tofu, vegan, vegetarian
+valgurikkad_toidud, kaunviljad, vegan, vegetarian
+valgurikkad_toidud, kana, vegetarian
+täisteratooted, pruun riis, vegan, vegetarian
+täisteratooted, täisterapasta, vegan, vegetarian
+Piimatooted ja alternatiivid, taimne piim, vegan, vegetarian
+Piimatoote ja alternatiivid, jogurt, vegetarian
+Piimatooted ja alternatiivid, piim, vegetarian
