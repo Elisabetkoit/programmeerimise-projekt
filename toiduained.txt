@@ -1,18 +1,18 @@
-Valgurikkad toidud, läätsed, vegan, vegetarian, kõik
-Valgurikkad toidud, kaer, vegan, vegetarian, kõik
-Valgurikkad toidud, uba, vegan, vegetarian, kõik
-Valgurikkad toidud, tempeh, vegan, vegetarian, kõik
-Valgurikkad toidud, kinoa, vegan, vegetarian, kõik
-Valgurikkad toidud,  kikerherned, vegan, vegetarian, kõik
-Valgurikkad toidud, tofu, vegan, vegetarian, kõik
-Valgurikkad toidud, chia seemned, vegan, vegetarian, kõik
-Valgurikkad toidud, mandlid, vegan, vegetarian, kõik
-Valgurikkad toidud, pruun riis, vegan, vegetarian, kõik
-Valgurikkad toidud, pähklid, vegan, vegetarian, kõik
-Valgurikkad toidud, seemned, vegan, vegetarian, kõik
-Valgurikkad toidud, kreeka jogurt, vegetarian, kõik
-Valgurikkad toidud, muna, vegetarian, kõik
-Valgurikkad toidud, kodujuust, vegetarian, kõik
+Valgurikkad toidud, läätsed, vegan, vegeterian, kõik
+Valgurikkad toidud, kaer, vegan, vegeterian, kõik
+Valgurikkad toidud, uba, vegan, vegeterian, kõik
+Valgurikkad toidud, tempeh, vegan, vegeterian, kõik
+Valgurikkad toidud, kinoa, vegan, vegeterian, kõik
+Valgurikkad toidud,  kikerherned, vegan, vegeterian, kõik
+Valgurikkad toidud, tofu, vegan, vegeterian, kõik
+Valgurikkad toidud, chia seemned, vegan, vegeterian, kõik
+Valgurikkad toidud, mandlid, vegan, vegeterian, kõik
+Valgurikkad toidud, pruun riis, vegan, vegeterian, kõik
+Valgurikkad toidud, pähklid, vegan, vegeterian, kõik
+Valgurikkad toidud, seemned, vegan, vegeterian, kõik
+Valgurikkad toidud, kreeka jogurt, vegeterian, kõik
+Valgurikkad toidud, muna, vegeterian, kõik
+Valgurikkad toidud, kodujuust, vegeterian, kõik
 Valgurikkad toidud, kana, kõik
 Valgurikkad toidud, kala, kõik
 Valgurikkad toidud, veiseliha, kõik
@@ -22,75 +22,76 @@ Valgurikkad toidud, krevetid, kõik
 Valgurikkad toidud, lambaliha, kõik
 Valgurikkad toidud, kaheksajalg, kõik
 Valgurikkad toidud, vähk, kõik
-Tervislikud rasvad, avokaado, vegan, vegetarian, kõik
-Tervislikud rasvad, pähklivõi, vegan, vegetarian, kõik
-Tervislikud rasvad, oliivid, vegan, vegetarian, kõik
-Tervislikud rasvad, oliiviõli, vegan, vegetarian, kõik
-Tervislikud rasvad, kookos, vegan, vegetarian, kõik
-Tervislikud rasvad, kookosõli, vegan, vegetarian, kõik
-Tervislikud rasvad, rapsiõli, vegan, vegetarian, kõik
-Tervislikud rasvad, kõrvitsaseemned, vegan, vegetarian, kõik
-Tervislikud rasvad, kakao, vegan, vegetaria, kõik
-Tervislikud rasvad, mais, vegan, vegetarian, kõik
-Tervislikud rasvad, majonees, vegetarian, kõik
-Tervislikud rasvad, või, vegetarian, kõik
-Täisteratoidud, millet, vegan, vegetarian, kõik
-Täisteratoidud, täiskaer, vegan, vegetarian, kõik
-Täisteratoidud, bulgur, vegan, vegetarian, kõik
-Täisteratoidud, amarant, vegan, vegetarian, kõik
-Täisteratoidud, kookose pruun riis, vegan, vegetarian, kõik
-Täisteratoidud, nisu, vegan, vegetarian, kõik
-Täisteratoidud, sorgo, vegan, vegetarian, kõik
-Täisteratoidud, farro, vegan, vegetarian, kõik
-Täisteratoidud, täisteraleib, vegan, vegetarian, kõik
-Täisteratoidud, oder, vegan, vegetarian, kõik
-Täisteratoidud, tatar, vegan, vegetarian, kõik
-Täisteratoidud, teff, vegan, vegetarian, kõik
-Täisteratoidud, rukis, vegan, vegetarian, kõik
-Täisteratoidud, täisterapasta, vegan, vegetarian, kõik
-Täisteratoidud, täisteratortilla, vegetarian, kõik
-Täisteratoidud, kaerahelbed, vegetarian, kõik
-Piimatooted ja alternatiivid, sojapiim, vegan, vegetarian, kõik
-Piimatooted ja alternatiivid, kookospiim, vegan, vegetarian, kõik
-Piimatooted ja alternatiivid, mandlipiim, vegan, vegetarian, kõik
-Piimatooted ja alternatiivid, kaerapiim, vegan, vegetarian, kõik
-Piimatooted ja alternatiivid, riisipiim, vegan, vegetarian, kõik
-Piimatooted ja alternatiivid, juust, vegetarian, kõik
-Piimatooted ja alternatiivid, jogurt, vegetarian, kõik
-Piimatooted ja alternatiivid, jäätis, vegetarian, kõik
-Piimatooted ja alternatiivid, kondentspiim, vegetarian, kõik
-Piimatooted ja alternatiivid, keefir, vegetarian, kõik
-Puuviljad, mango, vegan, vegetarian, kõik
-Puuviljad, greip, vegan, vegetarian, kõik
-Puuviljad, banaan, vegan, vegetarian, kõik
-Puuviljad, sidrun, vegan, vegetarian, kõik
-Puuviljad, õun, vegan, vegetarian, kõik
-Puuviljad, ananass, vegan, vegetarian, kõik
-Puuviljad, aprikoos, vegan, vegetarian, kõik
-Puuviljad, papaia, vegan, vegetarian, kõik
-Puuviljad, granaatõun, vegan, vegetarian, kõik
-Puuviljad, apelsin, vegan, vegetarian, kõik
-Puuviljad, ploom, vegan, vegetarian, kõik
-Puuviljad, kiivi, vegan, vegetarian, kõik
-Köögiviljad, lehtkapsas, vegan, vegetarian, kõik
-Köögiviljad, tomat, vegan, vegetarian, kõik
-Köögiviljad, kõrvits, vegan, vegetarian, kõik
-Köögiviljad, küüslauk, vegan, vegetarian, kõik
-Köögiviljad, brokkoli, vegan, vegetarian, kõik
-Köögiviljad, kartul, vegan, vegetarian, kõik
-Köögiviljad, spargel, vegan, vegetarian, kõik
-Köögiviljad, lillkapsas, vegan, vegetarian, kõik
-Köögiviljad, rooskapsas, vegan, vegetarian, kõik
-Köögiviljad, spinat, vegan, vegetarian, kõik
-Köögiviljad, sibul, vegetarian, kõik
-Marjad, maasikas, vegan, vegetarian, kõik
-Marjad, vaarikas, vegan, vegetarian, kõik
-Marjad, kirss, vegan, vegetarian, kõik
-Marjad, murel, vegan, vegetarian, kõik
-Marjad, mustikas, vegan, vegetarian, kõik
-Marjad, viinamari, vegan, vegetarian, kõik
-Marjad, jõhvikas, vegan, vegetarian, kõik
-Marjad, pohl, vegan, vegetarian, kõik
-Marjad, põldmari, vegan, vegetarian, kõik
-Marjad, punane sõstar, vegan, vegetarian, kõik
-Marjad, must sõstar, vegan, vegetarian, kõik
+Tervislikud rasvad, avokaado, vegan, vegeterian, kõik
+Tervislikud rasvad, pähklivõi, vegan, vegeterian, kõik
+Tervislikud rasvad, oliivid, vegan, vegeterian, kõik
+Tervislikud rasvad, oliiviõli, vegan, vegeterian, kõik
+Tervislikud rasvad, kookos, vegan, vegeterian, kõik
+Tervislikud rasvad, kookosõli, vegan, vegeterian, kõik
+Tervislikud rasvad, rapsiõli, vegan, vegeterian, kõik
+Tervislikud rasvad, kõrvitsaseemned, vegan, vegeterian, kõik
+Tervislikud rasvad, kakao, vegan, vegeterian, kõik
+Tervislikud rasvad, mais, vegan, vegeterian, kõik
+Tervislikud rasvad, majonees, vegeterian, kõik
+Tervislikud rasvad, või, vegeterian, kõik
+Täisteratoidud, millet, vegan, vegeterian, kõik
+Täisteratoidud, täiskaer, vegan, vegeterian, kõik
+Täisteratoidud, bulgur, vegan, vegeterian, kõik
+Täisteratoidud, amarant, vegan, vegeterian, kõik
+Täisteratoidud, kookose pruun riis, vegan, vegeterian, kõik
+Täisteratoidud, nisu, vegan, vegeterian, kõik
+Täisteratoidud, sorgo, vegan, vegeterian, kõik
+Täisteratoidud, farro, vegan, vegeterian, kõik
+Täisteratoidud, täisteraleib, vegan, vegeterian, kõik
+Täisteratoidud, oder, vegan, vegeterian, kõik
+Täisteratoidud, tatar, vegan, vegeterian, kõik
+Täisteratoidud, teff, vegan, vegeterian, kõik
+Täisteratoidud, rukis, vegan, vegeterian, kõik
+Täisteratoidud, täisterapasta, vegan, vegeterian, kõik
+Täisteratoidud, täisteratortilla, vegeterian, kõik
+Täisteratoidud, kaerahelbed, vegeterian, kõik
+Piimatooted ja alternatiivid, sojapiim, vegan, vegeterian, kõik
+Piimatooted ja alternatiivid, kookospiim, vegan, vegeterian, kõik
+Piimatooted ja alternatiivid, mandlipiim, vegan, vegeterian, kõik
+Piimatooted ja alternatiivid, kaerapiim, vegan, vegeterian, kõik
+Piimatooted ja alternatiivid, riisipiim, vegan, vegeterian, kõik
+Piimatooted ja alternatiivid, juust, vegeterian, kõik
+Piimatooted ja alternatiivid, jogurt, vegeterian, kõik
+Piimatooted ja alternatiivid, jäätis, vegeterian, kõik
+Piimatooted ja alternatiivid, kondentspiim, vegeterian, kõik
+Piimatooted ja alternatiivid, keefir, vegeterian, kõik
+Puuviljad, mango, vegan, vegeterian, kõik
+Puuviljad, greip, vegan, vegeterian, kõik
+Puuviljad, banaan, vegan, vegeterian, kõik
+Puuviljad, sidrun, vegan, vegeterian, kõik
+Puuviljad, õun, vegan, vegeterian, kõik
+Puuviljad, ananass, vegan, vegeterian, kõik
+Puuviljad, aprikoos, vegan, vegeterian, kõik
+Puuviljad, papaia, vegan, vegeterian, kõik
+Puuviljad, granaatõun, vegan, vegeterian, kõik
+Puuviljad, apelsin, vegan, vegeterian, kõik
+Puuviljad, ploom, vegan, vegeterian, kõik
+Puuviljad, kiivi, vegan, vegeterian, kõik
+Köögiviljad, lehtkapsas, vegan, vegeterian, kõik
+Köögiviljad, tomat, vegan, vegeterian, kõik
+Köögiviljad, kõrvits, vegan, vegeterian, kõik
+Köögiviljad, küüslauk, vegan, vegeterian, kõik
+Köögiviljad, brokkoli, vegan, vegeterian, kõik
+Köögiviljad, kartul, vegan, vegeterian, kõik
+Köögiviljad, spargel, vegan, vegeterian, kõik
+Köögiviljad, lillkapsas, vegan, vegeterian, kõik
+Köögiviljad, rooskapsas, vegan, vegeterian, kõik
+Köögiviljad, spinat, vegan, vegeterian, kõik
+Köögiviljad, sibul, vegeterian, kõik
+Marjad, maasikas, vegan, vegeterian, kõik
+Marjad, vaarikas, vegan, vegeterian, kõik
+Marjad, kirss, vegan, vegeterian, kõik
+Marjad, murel, vegan, vegeterian, kõik
+Marjad, mustikas, vegan, vegeterian, kõik
+Marjad, viinamari, vegan, vegeterian, kõik
+Marjad, jõhvikas, vegan, vegeterian, kõik
+Marjad, pohl, vegan, vegeterian, kõik
+Marjad, põldmari, vegan, vegeterian, kõik
+Marjad, punane sõstar, vegan, vegeterian, kõik
+Marjad, must sõstar, vegan, vegeterian, kõik
+Marjad, tikker, vegan, vegeterian, kõik
